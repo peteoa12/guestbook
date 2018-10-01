@@ -1,0 +1,16 @@
+body {
+    /* background-color: blue; */
+}
+
+textarea {
+    width:100%;
+    height:200px;
+}
+
+input {
+    width:50%;
+}
+
+li {
+    list-style: none;
+}
